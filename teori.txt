@@ -1,0 +1,6 @@
+1. Greedy Algorithm adalah Metode yang paling populer untuk memecahkan persoalan optimasi. Greedy Algorithm 
+membentuk solusi stay bay stay Contohnya :
+- Memilih beberapa jenis investasi
+- Mencari jalur tersingkat dari tegal ke pekalongan
+- Bermain kartu remi
+- Memilih jurusan di perguruan tinggi
